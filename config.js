@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
+global.sgh = 'https://github.com/Kianganz1'
+global.sgc = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '0857-3296-1136'
+global.ppulsa2 = '0857-3605-6578'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6285736056578'
+global.nomorown = '6285736056578'
+global.namebot = 'DRAGON'
+global.nameown = 'MODZ BOTZ OFC'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6285736056578'],
+  ['6285736056578'],
+  ['6285736056578'],
+  ['6285736056578', 'MODZ BOTZ ofc ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏𝙕' //Main Watermark
+global.wm2 = '𝘿𝙍𝘼𝙂𝙊N🐲'
+global.wm3 = '🐲 𝘿𝙍𝘼𝙂𝙊𝙉 🐉'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -146,8 +146,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '99999999999999999999' // default 10TB
+global.fpagedoc = '9999999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -173,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = '🐉'
+global.stickauth = `𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏𝙕🐲`
 
 global.multiplier = 38 // The higher, The harder levelup
 
